@@ -59,5 +59,11 @@ topics:
   - name: PHP
     web_url: https://github.com/topics/php
 
-  - name: CyberSecurity
-    web_url: https://github.com/topics/cybersecurity
+  - name: Security
+    web_url: https://github.com/topics/security
+
+  - name: Kali-Linux
+    web_url: https://github.com/topics/kali-linux
+
+  - name: Arduino
+    web_url: https://github.com/topics/arduino
