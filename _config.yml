@@ -29,6 +29,9 @@ projects:
     - smartstockdoc
     - yolla
     - ngnametag
+    - daynightplay
+    - assets
+    - corpalert-android
 
 social_media:
   # behance: your_username
